@@ -1,0 +1,4 @@
+*.sqlite3
+*.sqlite
+*DS_Store
+
